@@ -58,8 +58,8 @@
             <q-avatar size="56px" class="q-mb-sm">
               <img src="../../public/icons/imagens/me.jpg">
             </q-avatar>
-            <div class="text-weight-bold">TechTimbe</div>
-            <div>techtimbeservice@gmail.com</div>
+            <div class="text-weight-bold">Adelino Timbe</div>
+            <div>@TechTimbe</div>
           </div>
         </q-img>
     </q-drawer>
